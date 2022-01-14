@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb 01 Hitta tal i sträng med tecken", "Labb 01 Hitta tal i sträng med tecken\Labb 01 Hitta tal i sträng med tecken.csproj", "{BCC0069C-41DD-4367-917C-FA2A7DA3BE15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC0069C-41DD-4367-917C-FA2A7DA3BE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC0069C-41DD-4367-917C-FA2A7DA3BE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC0069C-41DD-4367-917C-FA2A7DA3BE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC0069C-41DD-4367-917C-FA2A7DA3BE15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD32CBE6-C692-435C-8D27-E8EF6ADB86FD}
+	EndGlobalSection
+EndGlobal
