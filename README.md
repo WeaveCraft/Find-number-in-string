@@ -3,7 +3,7 @@
 First project from Programming in .Net C# 1 
 
 VG uppfyllt.
-2021-09-14
+2021-09-14 -> 2021-09-26
 
 Inledning
 Skapa en konsollapplikation som tar en textsträng (string) som argument. Den kan
