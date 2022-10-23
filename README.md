@@ -48,3 +48,6 @@ delsträngar som i exemplet ovan och därefter räkna ut och skriva ut total.
 tillbaks uppgiften med möjlighet att fixa det som krävs för godkänt. Men
 ni har alltså bara en chans på er att få VG. Så var noga med testning.
 • Inlämning sker före deadline.
+
+![Screenshot 2022-10-23 125723](https://user-images.githubusercontent.com/90194213/197388242-f5c52c6d-e585-4d24-bd80-08d22d0ea410.png)
+
